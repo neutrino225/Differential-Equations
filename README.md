@@ -17,4 +17,3 @@ Euler's method is used as the foundation for Heun's method. It is better than th
 Symplectic Euler Method is a modification of the Euler method for solving Hamilton's equations. The difference with the standard Euler method is that the semi-implicit Euler method uses v<sub>n+1</sub> in the equation for x<sub>n+1</sub>, while the Euler method uses v<sub>n</sub>. It uses the final position which an object reaches to in the given time step and then uses that position to calculate the velocity. It yields better results than the standard Euler method.</br>
 
 ![image](https://user-images.githubusercontent.com/26041014/152057532-1b5ceb61-0469-478f-a311-c966c2444f26.png)</br>
-![image](https://user-images.githubusercontent.com/26041014/152057547-fc298e15-eb11-4f42-8e2f-eb08d1488c2e.png)
