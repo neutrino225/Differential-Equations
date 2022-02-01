@@ -3,6 +3,7 @@ The three methods used for these simulations are Foward Euler's Method, Heun's M
 
 **Foward Euler's Method:**</br>
 Euler's method is the first order, explicit method used for numerical integration of differential equations. It uses the initial results to give the final results. For example, it gives the new position of an object using it's old position and adding it with the change in position due to velocity during a certain time step. This will give the new position of that object after that time step has passed. Similarly, it can be used to give the new velocity using inital velocity at a certain time step and adding change in velocity, due to acceleration, to give the final velocity after that time step has passed.</br>
+
 ![image](https://user-images.githubusercontent.com/26041014/152056225-01e5d2fe-cfcc-43d2-ad26-7439d5e6323b.png)
 
 
